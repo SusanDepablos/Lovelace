@@ -1,1 +1,4 @@
-.venv
+# Otros archivos generados automáticamente
+env
+
+__pycache__
